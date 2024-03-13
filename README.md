@@ -43,3 +43,24 @@ Following these repositories:
 - setAge((newAge) => newAge - 1);
 
 ![](./03-name-counter/image.png)
+
+
+## 04-use-effect-exercises
+
+- remove React.StrictMode
+- using useEffect
+- useEffect dependency array and cleanup
+- clearing setInterval, same for event listeners
+
+![](./04-use-effect-exercises/image.png)
+
+
+## 05-lifecycle-method-exercises
+
+- remove React.StrictMode
+- using componentDidMount, componentDidUpdate, componentWillUnmount
+- difference from useEffect is componentDidUpdate becomes lengthy
+- cleanup happends in two places, in componentDidUpdate and componentWillUnmount
+- componentDidMount and componentWillUnmount is straight forward
+
+![](./05-lifecycle-method-exercises/image.png)

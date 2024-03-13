@@ -1,0 +1,55 @@
+.card {
+  margin: 2rem;
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding: 1rem;
+}
+
+h1 {
+  margin: 0;
+  margin-bottom: 2rem;
+  font-size: 1.5rem;
+}
+
+.name-input {
+  margin-bottom: 1rem;
+}
+
+.name-input label {
+  margin-right: 1rem;
+  font-size: 1.2rem;
+}
+
+.name-input input {
+  padding: 0.5rem;
+  border-radius: 5px;
+  border: 1px solid gray;
+  width: 200px;
+  font-size: 1.2rem;
+}
+
+.age-buttons {
+  display: flex;
+  gap: 1rem;
+}
+
+.age-buttons button {
+  padding: 0.2rem 1rem;
+  border-radius: 5px;
+  border: 1px solid gray;
+  background-color: white;
+  cursor: pointer;
+}
+
+.age-buttons button:hover {
+  background-color: lightgray;
+}
+
+.age-buttons span {
+  font-size: 1.5rem;
+}
+
+p {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
