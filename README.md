@@ -13,3 +13,12 @@ npm create vite@latest
 - Difference between default and non default export
 - css grid layout
 - css rem unit (see https://g.co/gemini/share/5e91f05a9254)
+
+
+## 02-array-component
+
+- how to use useState
+- calling useState directly from onClick
+- calling useState from a function
+- array destructuring
+- array filter and slice
