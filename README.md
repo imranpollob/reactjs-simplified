@@ -20,6 +20,8 @@ Following these repositories:
 - css grid layout
 - css rem unit (see https://g.co/gemini/share/5e91f05a9254)
 
+![](./01-user-card/image.png)
+
 
 ## 02-array-component
 
@@ -29,6 +31,8 @@ Following these repositories:
 - array destructuring
 - array filter and slice
 
+![](./02-array-component/image.png)
+
 
 ## 03-name-counter
 
@@ -37,3 +41,5 @@ Following these repositories:
 - transformation between class and functional component
 - this.setState((prevState) => ({ age: prevState.age - 1 }));
 - setAge((newAge) => newAge - 1);
+
+![](./03-name-counter/image.png)
