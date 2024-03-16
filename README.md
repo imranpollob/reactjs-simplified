@@ -64,3 +64,14 @@ Following these repositories:
 - componentDidMount and componentWillUnmount is straight forward
 
 ![](./05-lifecycle-method-exercises/image.png)
+
+
+## 06-user-list
+
+- used loading state
+- error handling methods implemented
+- use AbortController() to stop second time fetching
+- use of abortController.abort() to cleanup
+- saving jsx in a variable
+
+![](./06-user-list/image.png)

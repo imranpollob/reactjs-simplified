@@ -1,0 +1,37 @@
+:root,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Arial", sans-serif;
+}
+
+h1 {
+  margin-left: 1rem;
+}
+
+.user {
+  border: 1px solid lightslategray;
+  padding: 1rem;
+  margin: 1rem;
+  max-width: 500px;
+}
+
+.user-header {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 1rem;
+}
+
+.user-header h2 {
+  margin: 0;
+}
+
+.user-header p {
+  font-size: 1rem;
+}
+
+.user-details {
+  display: flex;
+  justify-content: space-between;
+}
